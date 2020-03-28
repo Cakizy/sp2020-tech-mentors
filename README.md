@@ -51,8 +51,8 @@ A student as team member responsibility will be to plan the course of the develo
 
 ### Documentation of project 📝
 Documenting the project is important. The code should be uploaded and updated frequently on github. But documentation on the goals and aims of the project are also important. To get the feel on how to write a good README for your project and document it, here is a template and an example:
-* [Empty Template](https://github.com/dejan0zdravkovski/sedc-sp2020-tech-mentors/blob/master/ProjectReadmeTemplate.md)
-* [Existing Project Example](https://github.com/dejan0zdravkovski/sedc-sp2020-tech-mentors/blob/master/ProjectReadmeExample.md)
+* [Empty Template](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/ProjectReadmeTemplate.md)
+* [Existing Project Example](https://github.com/codecademy/sedc-sp2020-tech-mentors/blob/master/ProjectReadmeExample.md)
 
 ### Contact 📡
 * Jovana Shishkovska (Web designer): jovana.siskovska@yahoo.com 
@@ -70,12 +70,12 @@ Documenting the project is important. The code should be uploaded and updated fr
 * Final Presentation Days: 1st – 4th July
 
 ### 🌴 Extra information and Materials  🌴
-* [How to start building a project](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/HowToStartProject.md)
-* [How to organize while developing an application](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/HowToOrganize.md)
-* [Free APIs and helpful pages](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/FreeApis.md)
-* [Technical blogs and resources](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/TechincalBlogs.md)
-* [How to simulate getting data from Data Base with JSON](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/SimulateDataBase.md)
-* [How to use LocalStorage](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/LocalStorage.md)
-* [Implementing Graphs and Charts](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/GraphsAndCharts.md)
-* [Soft Skills](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/SoftSkills.md)
-* [GitPages Hosting](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/GitPages.md)
+* [How to start building a project](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/HowToStartProject.md)
+* [How to organize while developing an application](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/HowToOrganize.md)
+* [Free APIs and helpful pages](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/FreeApis.md)
+* [Technical blogs and resources](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/TechincalBlogs.md)
+* [How to simulate getting data from Data Base with JSON](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/SimulateDataBase.md)
+* [How to use LocalStorage](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/LocalStorage.md)
+* [Implementing Graphs and Charts](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/GraphsAndCharts.md)
+* [Soft Skills](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/SoftSkills.md)
+* [GitPages Hosting](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/GitPages.md)
