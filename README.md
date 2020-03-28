@@ -62,7 +62,7 @@ Documenting the project is important. The code should be uploaded and updated fr
 * Martin Panovski (Web developer):  panovski62@gmail.com 
 * Igor Joshevski (Web developer): igor.joshevski@seavus.com
 
-### Lectures Tracks and Semesters 🗓
+### Projects Timeline 🗓
 * Projects end date: 30th June 2020
 
 * Approx. time: 3 months
