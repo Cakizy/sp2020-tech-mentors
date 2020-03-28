@@ -74,7 +74,7 @@ Documenting the project is important. The code should be uploaded and updated fr
 * [How to organize while developing an application](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/HowToOrganize.md)
 * [Free APIs and helpful pages](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/FreeApis.md)
 * [Technical blogs and resources](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/TechincalBlogs.md)
-* [How to simulate getting data from Data Base with JSON](https://github.com/v/blob/master/SimulateDataBase.md)
+* [How to simulate getting data from Data Base with JSON](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/SimulateDataBase.md)
 * [How to use LocalStorage](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/LocalStorage.md)
 * [Implementing Graphs and Charts](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/GraphsAndCharts.md)
 * [Soft Skills](https://github.com/dejan0zdravkovski/sp2020-tech-mentors/blob/master/SoftSkills.md)
