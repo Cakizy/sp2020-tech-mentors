@@ -52,7 +52,7 @@ A student as team member responsibility will be to plan the course of the develo
 ### Documentation of project 📝
 Documenting the project is important. The code should be uploaded and updated frequently on github. But documentation on the goals and aims of the project are also important. To get the feel on how to write a good README for your project and document it, here is a template and an example:
 * [Empty Template](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/ProjectReadmeTemplate.md)
-* [Existing Project Example](https://github.com/codecademy/sedc-sp2020-tech-mentors/blob/master/ProjectReadmeExample.md)
+* [Existing Project Example](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/ProjectReadmeExample.md)
 
 ### Contact 📡
 * Jovana Shishkovska (Web designer): jovana.siskovska@yahoo.com 
