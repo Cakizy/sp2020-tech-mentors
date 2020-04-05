@@ -57,7 +57,7 @@ Documenting the project is important. The code should be uploaded and updated fr
 ### Contact 📡
 * Jovana Shishkovska (Web designer): jovana.siskovska@yahoo.com 
 * Stefan Blazhevski (Web developer):  blazevskistefan@gmail.com 
-* Darya Hachanova (Web designer)
+* Darya Hachanova (Web designer): darya5669@gmail.com
 * Ivo Kostovski (Web developer):  ivo.kostovski@gmail.com 
 * Martin Panovski (Web developer):  panovski62@gmail.com 
 * Igor Joshevski (Web developer): igor.joshevski@seavus.com
