@@ -8,7 +8,7 @@ the version of our code that doesn't have bugs, that is stable and that is ready
 work from all the developers in the team, just merged on one place.
 On the image below, you can see how master branch looks like, and how you use it for now, with your homeworks!
 
-![image](https://github.com/martinpano/Branching-strategy/blob/master/BranchingStrategy/IMG_20200415_000022.jpg)
+![image](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/img/master-branch.jpg)
 
 ### Why using different branches? I commit my homeworks on master only 🤔
 Okay, so now that we have some knowledge in what master branch is, lets go furhter, and see why not commiting on master branch!
@@ -18,7 +18,7 @@ but at the end of the day, still to have all the code on one place and without b
 Well this is where **develop** branch comes to the scene. You can think of develop as a twin branch with master branch. So basically, you create it immidiately after the repository is created.
 And how we can create the develop branch, find out on the image bellow!
 
-![image](https://github.com/martinpano/Branching-strategy/blob/master/BranchingStrategy/Screenshot_1.png)
+![image](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/img/create-develop.png)
 
 ### Okay, so what now? We commit to both of them, right?
 So far so good! We now have knowledge not only about master branch, but also, we gain some knowledge of what is and how to create a develop branch.
@@ -36,7 +36,7 @@ Their team lead already create the repository for them and create also the 'deve
 6. Anna develop homepage things and commit to her own branch, without interfering John, and John also commits to his own branch not disturbing Anna's work.
 To make this easy to understand, have a look on the image below.
 
-![image](https://github.com/martinpano/Branching-strategy/blob/master/BranchingStrategy/IMG_20200415_000106.jpg)
+![image](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/img/feature-branches.jpg)
 
 And here we come to the point. We commit our changes to only our branches, without interfering each other work 😄. Great, but what next!?
 
@@ -61,7 +61,7 @@ So again, John must merge develop branch into his feature branch, so that he can
 his Contacts feature. After that hew creates a pull request, so that all his work can be merged into develop origin branch (origin means on the server or on github, not locally).
 For more clear graphical explanation, check the image below.
 
-![image](https://github.com/martinpano/Branching-strategy/blob/master/BranchingStrategy/IMG_20200415_000144.jpg)
+![image](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/img/pull-requests.jpg)
 
 ### Final destination?
 And that is how the work done from two developers, worked on two different branches now is merged in only one develop branch. After making 
