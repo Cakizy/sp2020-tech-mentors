@@ -41,7 +41,7 @@ Let say that someone already create a repository on GitHub for you. So, first of
 10. After you finished all your work. And you are sure that that's it. The merging part comes. First of all, you need to merge the develop branch into your branch. Check the image how you do this.
 ![image](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/img/merge-locally_1.png)
 
-![image](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/img/merge-locall_2.png)
+![image](https://github.com/sedc-codecademy/sp2020-tech-mentors/blob/master/img/merge-locally_2.png)
 
 11. If you cannot click the merge button, it means that you are up to date with develop branch, and you can go further with creation of **pull request**. This means that you want now to put your code on the develop branch, or to merge your branch into develop (origin). So, you just click on Create pull request button from the GitHub desktop app.
 
